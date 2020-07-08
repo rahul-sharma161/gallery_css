@@ -1,0 +1,21 @@
+img {
+  width: 30%;
+  height: 300px;
+  float: left;
+  margin: 1.66%;
+}
+/* .box {
+  justify-content: center;
+  margin-left: auto;
+} */
+
+p {
+  width: 50%;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman";
+  margin: auto;
+  font-weight: lighter;
+  padding-bottom: 20px;
+  border-bottom: 2px antiquewhite solid;
+}
